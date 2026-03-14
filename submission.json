@@ -1,0 +1,6 @@
+{
+  "prompt": "A tailor's workroom, photorealistic, natural window light. A mannequin wearing an unfinished suit jacket with a dramatically visible asymmetry — one shoulder is heavily padded and raised to compensate for a specific physical deformity, excessive darts and tucks pull the fabric in unusual directions to hug particular body curves, dozens of pins hold fabric in contorted positions that look precise for this one form but structurally bizarre. The suit is clearly fitted to memorize every idiosyncrasy of one specific unusual body. On the workbench: a single set of highly irregular body measurements sketched on paper. The fit is uncannily exact for the mannequin, but the silhouette looks wrong, distorted, impossible to wear for anyone else. Moody film photography, shallow depth of field, no text, no labels.",
+  "model": "Flux Pro 1.1",
+  "concept": "overfitting",
+  "metaphor": "A suit hyper-customized to one mannequin's asymmetries fits that form perfectly but is unwearable by anyone else — memorization without generalization."
+}
